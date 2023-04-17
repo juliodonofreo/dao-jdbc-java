@@ -98,7 +98,7 @@ public class Seller implements Serializable {
                 ", email='" + email + '\'' +
                 ", birthDate=" + birthDate +
                 ", basesalary=" + basesalary +
-                ", department='" + department.getName() +
-                "'}";
+                ", department=" + department +
+                "}";
     }
 }
